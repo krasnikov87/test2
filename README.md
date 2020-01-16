@@ -1,5 +1,6 @@
 Enjoy new features like:
 - Schedule MongoDB tasks 
+-asdasdas
 - Write SQL to query MongoDB 
 - Import multiple SQL tables to a single MongoDB collection 
 - Enjoy rich query autocompletion 
