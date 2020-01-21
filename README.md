@@ -9,4 +9,4 @@ sdasdklknlknlkEnjoy new features like:
 - Break down aggregation queries into stages 
 - Generate driver code in five languages 
 - Compare collections and view differences side-by-side 
-- Explore data schema and find outliers 
+- Explore data schema and find outliers qweqweqwe
