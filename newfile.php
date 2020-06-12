@@ -10,7 +10,7 @@ use App\Http\Services\CommitHistoryService;
 use App\Http\Services\LogServiceInterface;
 use App\Http\Services\RepositoryService;
 use App\Http\Services\TenantService;
-use App\Models\Account;
+
 use App\Models\Tenant;
 use App\Overrides\Clients\GitHubClient;
 use Github\Client;
