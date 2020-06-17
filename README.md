@@ -11,3 +11,4 @@ Enjoy new features like:
 - Explore data schema and find outliers 
 1222adasd
 uufvufghj
+вфвфывфы
